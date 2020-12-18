@@ -1,0 +1,19 @@
+neofetch --ascii_distro alpine
+neofetch --ascii_distro android
+neofetch --ascii_distro archlinux
+neofetch --ascii_distro bunsenlabs
+neofetch --ascii_distro centos
+neofetch --ascii_distro crux
+neofetch --ascii_distro debian
+neofetch --ascii_distro fedora
+neofetch --ascii_distro gentoo
+neofetch --ascii_distro gobolinux
+neofetch --ascii_distro macos
+neofetch --ascii_distro nixos
+neofetch --ascii_distro opensuse
+neofetch --ascii_distro slackware
+neofetch --ascii_distro solus
+neofetch --ascii_distro ubuntu
+neofetch --ascii_distro voidlinux
+neofetch --ascii_distro windows
+
