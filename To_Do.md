@@ -29,3 +29,7 @@
 - [x] Add web hyperlink to Linus Torvalds picture
 - [x] Add web hyperlink to Logo Open Source Hardware
 - [x] Add web hyperlink to Logo NSA
+- [x] Added web links on Linus T. persentation slide.
+        + [x] Link to github kernel repo from Linus
+        + [x] 2 links on bottom to github Linux lx-kernel repo, and Lx Kernel Archives
+            - NOT SURE I WANT TO KEEP THIS
