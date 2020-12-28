@@ -33,3 +33,5 @@
         + [x] Link to github kernel repo from Linus
         + [x] 2 links on bottom to github Linux lx-kernel repo, and Lx Kernel Archives
             - NOT SURE I WANT TO KEEP THIS
+- [ ] OS Honorable mentions: Add ROS (Robot OS)
+- [ ] Enlever les hyerlinks Linux kernel & archive @ slide linus Torvalds (Aucune val ajoutée)
