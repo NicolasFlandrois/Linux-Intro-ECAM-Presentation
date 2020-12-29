@@ -24,7 +24,7 @@
     + [x] Retropie
     + [x] Arduino
     + [x] Raspberry Pi
-    + [ ] Android ISO / Google raw OS
+    + [x] Android ISO / Google raw OS (A defaut page web officiel)
     + [x] Git & GitHub
 - [x] Add web hyperlink to Linus Torvalds picture
 - [x] Add web hyperlink to Logo Open Source Hardware
@@ -33,6 +33,6 @@
         + [x] Link to github kernel repo from Linus
         + [x] 2 links on bottom to github Linux lx-kernel repo, and Lx Kernel Archives
             - NOT SURE I WANT TO KEEP THIS
-- [ ] OS Honorable mentions: Add ROS (Robot OS)
-- [ ] OS Honorable mentions: Add Gamer OS
-- [ ] Enlever les hyerlinks Linux kernel & archive @ slide linus Torvalds (Aucune val ajoutée)
+- [x] OS Honorable mentions: Add ROS (Robot OS)
+- [x] OS Honorable mentions: Add Gamer OS
+- [x] Enlever les hyerlinks Linux kernel & archive @ slide linus Torvalds (Aucune val ajoutée)
