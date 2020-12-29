@@ -13,7 +13,7 @@
 - [ ] Philosophie, visual Aid? (retour de JB)
 - [ ] Internet Slide, visual aid ? (retour de JB)
 
-- [ ] Add web hyperlinks to all logo pictures (to main company page)
+- [x] Add web hyperlinks to all logo pictures (to main company page)
     + [x] GNU Linux
     + [x] Lineage OS
     + [x] Pine64
@@ -34,4 +34,5 @@
         + [x] 2 links on bottom to github Linux lx-kernel repo, and Lx Kernel Archives
             - NOT SURE I WANT TO KEEP THIS
 - [ ] OS Honorable mentions: Add ROS (Robot OS)
+- [ ] OS Honorable mentions: Add Gamer OS
 - [ ] Enlever les hyerlinks Linux kernel & archive @ slide linus Torvalds (Aucune val ajoutée)
