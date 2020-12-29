@@ -49,3 +49,19 @@
     + Weather Baloons
     + Remote controled planes/Miniatures
 - Some Cities in Germany uses Linux for all administration agencies.
+- Formula 1 Team of engineers (Linux + Python):
+    - [At least, as far as I know; Teams: Redbull, and 1 Italian Team]
+    - Cluster computers to :
+        - compute models for carbon fiber molds
+        - compute data analyses from lab tests:
+            - Wind Tube
+            - all, any, and every technical data
+            - Simulations
+    - On board computer:
+        - dynamic data provided in real time during the race
+    - Real exemple of Open Source in Engineering world:
+        - If licence base softwares, the use is limited by the licence. The licence is binded to the computer (MAC Address).
+        - If for xyz reason 1 of the team computer breaks down the day before the race (or on D-day). Licences are still attached to old PC. And therefor unusable on emergency PC.
+        - With open software, the team is up and runing in no time. No Licence shortage, or Licence Binding limitatiuons.
+- [SpaceX's Falcon 9](https://fossbytes.com/spacex-used-linux-to-send-nasa-astronauts-to-international-space-station/)
+- [PSA Peugeot Citroën depuis 2007 utilise Linux (Most likely the onboard OS in cars are also Linux Based)](https://fr.wikinews.org/wiki/PSA_Peugeot_Citro%C3%ABn_migre_vers_Linux)
