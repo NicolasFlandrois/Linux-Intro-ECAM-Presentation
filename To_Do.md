@@ -36,3 +36,6 @@
 - [x] OS Honorable mentions: Add ROS (Robot OS)
 - [x] OS Honorable mentions: Add Gamer OS
 - [x] Enlever les hyerlinks Linux kernel & archive @ slide linus Torvalds (Aucune val ajoutée)
+- [ ] Distro vs Desktop Environment ??? (Demo possible sur mon PC)
+- [ ] Demo dans terminal avec Neofetch des != distro in ASCII art
+- [ ] ??? Twiter Meme How to Choose your OS, decision tree ???
