@@ -64,6 +64,5 @@
         - If for xyz reason 1 of the team computer breaks down the day before the race (or on D-day). Licences are still attached to old PC. And therefor unusable on emergency PC.
         - With open software, the team is up and runing in no time. No Licence shortage, or Licence Binding limitatiuons.
 - [SpaceX's Falcon 9](https://fossbytes.com/spacex-used-linux-to-send-nasa-astronauts-to-international-space-station/)
-- [PSA Peugeot Citroën depuis 2007 utilise Linux (Most likely the onboard OS in cars are also Linux Based
-
-)](https://fr.wikinews.org/wiki/PSA_Peugeot_Citro%C3%ABn_migre_vers_Linux)
+- [PSA Peugeot Citroën depuis 2007 utilise Linux (Most likely the onboard OS in cars are also Linux Based)](https://fr.wikinews.org/wiki/PSA_Peugeot_Citro%C3%ABn_migre_vers_Linux)
+- ENS Lyon (Ecole normal sup)
