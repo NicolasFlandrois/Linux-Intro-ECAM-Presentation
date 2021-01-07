@@ -40,10 +40,19 @@
 - [x] Demo dans terminal avec Neofetch des != distro in ASCII art
 - ~~??? Twiter Meme How to Choose your OS, decision tree ???~~
 
-#### Suggestions de JB:
+#### Suggestions de JB + Visio conférence:
 
 - [x] Add Richard Stallman
 - ~~Add info on Stallman, But What?~~
 - [ ] Add quote from Stallman
 - [x] Move Linus Slide with Stallman, On Top of Logiciel Libre
 - ~~Licences Existantes, remplacer le txt Scroll down par lien ???? (NFL pas pour)~~
+
+- [ ] Mise en page de certaines images
+    + [ ] Retravailler en CSS l'image de fond. Remplacer l'image de fond par des lignes en css, et logo ECAM
+    + [ ] Modele Eco Slide - Recadrer POP OS, qui déborde de l'écran trop
+    + [ ] Slide Blender - Recadrer/Resize Déborde trop de l'écran
+    + [x] Slide Kernel vs GNU - Recadrer/Resize Déborde trop de l'écran
+    + [ ] Slide des Pinguins Distros - Recadrer/Resize Déborde trop de l'écran
+    + [x] Centrer les items du slide GNU/Open Software
+    + [x] Centrer les items du slide Open Software vs NSA
