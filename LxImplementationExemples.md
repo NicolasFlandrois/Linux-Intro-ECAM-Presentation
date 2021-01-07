@@ -66,3 +66,4 @@
 - [SpaceX's Falcon 9](https://fossbytes.com/spacex-used-linux-to-send-nasa-astronauts-to-international-space-station/)
 - [PSA Peugeot Citroën depuis 2007 utilise Linux (Most likely the onboard OS in cars are also Linux Based)](https://fr.wikinews.org/wiki/PSA_Peugeot_Citro%C3%ABn_migre_vers_Linux)
 - ENS Lyon (Ecole normal sup)
+- INSA Lyon
