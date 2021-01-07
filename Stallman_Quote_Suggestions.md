@@ -1,0 +1,38 @@
+# Richard Stallman Quotes (Suggestions)
+
+- **Sharing knowledge is the most fundamental act of friendship. Because it is a way you can give something without loosing something.**
+- Programming is not a science. Programming is a craft.
+- **If the users don't control the program, the program controls the users. With proprietary software, there is always some entity, the "owner" of the program, that controls the program and through it, exercises power over its users. A nonfree program is a yoke, an instrument of unjust power.**
+- I did write some code in Java once, but that was the island in Indonesia.
+- **Facebook is not your friend, it is a surveillance engine.**
+- **The idea of copyright did not exist in ancient times, when authors frequently copied other authors at length in works of non-fiction. This practice was useful, and is the only way many authors' works have survived even in part.**
+- ~~You can use any editor you want, but remember that vi vi vi is the text editor of the beast.~~
+- **Free software is software that respects your freedom and the social solidarity of your community. So it's free as in freedom.**
+- ~~Steve Jobs, the pioneer of the computer as a jail made cool, designed to sever fools from their freedom, has died.~~
+- Sharing is good, and with digital technology, sharing is easy.
+- ~~I don’t have a problem with someone using their talents to become successful, I just don’t think the highest calling is success. Things like freedom and the expansion of knowledge are beyond success, beyond the personal. Personal success is not wrong, but it is limited in importance, and once you have enough of it it is a shame to keep striving for that, instead of for truth, beauty, or justice.~~
+- People said I should accept the world. Bullshit! I don't accept the world.
+- ~~Idiots can be defeated but they never admit it.~~
+- There is no system but GNU and Linux is one of it's kernels
+- Playfully doing something difficult, whether useful or not, that is hacking.
+- **Proprietary software tends to have malicious features. The point is with a proprietary program, when the users dont have the source code, we can never tell. So you must consider every proprietary program as potential malware.**
+- ~~No person, no idea, and no religion deserves to be illegal to insult, not even the Church of Emacs.~~
+- Geeks like to think that they can ignore politics, you can leave politics alone, but politics won't leave you alone.
+- If you want to accomplish something in the world, idealism is not enough - you need to choose a method that works to achieve the goal.
+- Android is very different from the GNU/Linux operating system because it contains very little of GNU. Indeed, just about the only component in common between Android and GNU/Linux is Linux, the kernel.
+- ~~I've read that male dolphins try to have sex with humans, and female apes solicit sex from humans. What is wrong with giving them what they want, if that's what turns you on, or even just to gratify them?~~
+- Giving the Linus Torvalds Award to the Free Software Foundation is a bit like giving the Han Solo Award to the Rebel Alliance.
+- Creativity can be a social contribution, but only in so far as society is free to use the results.
+- **I could have made money this way, and perhaps amused myself writing code. But I knew that at the end of my career, I would look back on years of building walls to divide people, and feel I had spent my life making the world a worse place.**
+- **Open source is a development methodology; free software is a social movement.**
+- People get the government their behavior deserves. People deserve better than that.
+- To be able to choose between proprietary software packages is to be able to choose your master. Freedom means not having a master.
+- Value your freedom or you will lose it, teaches history. "Don't bother us with politics," respond those who don't want to learn.
+- Today many people are switching to free software for purely practical reasons. That is good, as far as it goes, but that isn't all we need to do! Attracting users to free software is not the whole job, just the first step.
+- We need to teach people to refuse to install non-free plug-ins; we need to teach people to care more about their long-term interest of freedom than their immediate desire to view a particular site.
+- **Think 'free speech,' not 'free beer.'**
+- I consider that the Golden Rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+- In the free/libre software movement, we develop software that respects users' freedom, so we and you can escape from software that doesn't.
+- The GNU GPL was not designed to be "open source".
+- Writing non-free software is not an ethically legitimate activity, so if people who do this run into trouble, that's good! All businesses based on non-free software ought to fail, and the sooner the better.
+- It's clear that other problems such as [...] the domination of business over government, science, thought, and society, are much bigger than non-free software.
