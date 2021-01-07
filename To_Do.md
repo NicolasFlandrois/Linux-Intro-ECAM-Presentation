@@ -53,6 +53,6 @@
     + [ ] Modele Eco Slide - Recadrer POP OS, qui déborde de l'écran trop
     + [ ] Slide Blender - Recadrer/Resize Déborde trop de l'écran
     + [x] Slide Kernel vs GNU - Recadrer/Resize Déborde trop de l'écran
-    + [ ] Slide des Pinguins Distros - Recadrer/Resize Déborde trop de l'écran
+    + [x] Slide des Pinguins Distros - Recadrer/Resize Déborde trop de l'écran
     + [x] Centrer les items du slide GNU/Open Software
     + [x] Centrer les items du slide Open Software vs NSA
