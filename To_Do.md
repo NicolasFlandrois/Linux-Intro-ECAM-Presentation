@@ -38,4 +38,11 @@
 - [x] Enlever les hyerlinks Linux kernel & archive @ slide linus Torvalds (Aucune val ajoutée)
 - [ ] Distro vs Desktop Environment ??? (Demo possible sur mon PC)
 - [ ] Demo dans terminal avec Neofetch des != distro in ASCII art
-- [ ] ??? Twiter Meme How to Choose your OS, decision tree ???
+- ~~??? Twiter Meme How to Choose your OS, decision tree ???~~
+
+#### Suggestions de JB:
+
+- [x] Add Richard Stallman
+- [ ] Add info on Stallman, But What?
+- [ ] Move Linus Slide with Stallman, On Top of Logiciel Libre
+- [ ] Licences Existantes, remplacer le txt Scroll down par lien ???? (NFL pas pour)
