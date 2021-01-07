@@ -51,7 +51,7 @@
 - [ ] Mise en page de certaines images
     + [ ] Retravailler en CSS l'image de fond. Remplacer l'image de fond par des lignes en css, et logo ECAM
     + [ ] Modele Eco Slide - Recadrer POP OS, qui déborde de l'écran trop
-    + [ ] Slide Blender - Recadrer/Resize Déborde trop de l'écran
+    + [x] Slide Blender - Recadrer/Resize Déborde trop de l'écran
     + [x] Slide Kernel vs GNU - Recadrer/Resize Déborde trop de l'écran
     + [x] Slide des Pinguins Distros - Recadrer/Resize Déborde trop de l'écran
     + [x] Centrer les items du slide GNU/Open Software
