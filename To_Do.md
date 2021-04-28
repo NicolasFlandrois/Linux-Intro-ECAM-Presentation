@@ -61,5 +61,8 @@
 2021-2022
 
 - [ ] Add [Linux Bans University Of Minnesota](https://www.bleepingcomputer.com/news/security/linux-bans-university-of-minnesota-for-committing-malicious-code/)
+    - [ ] Add [Hacker News Article on Minnesota Uni Issue](https://thehackernews.com/2021/04/minnesota-university-apologizes-for.html)
+    - [ ] Add [Youtube 'Mental Outlaw' 1st approach of Minnesota Uni Issue](https://youtu.be/JH_BGlS5LR4)
+    - [ ] Add [Youtube 'Mental Outlaw' 2nd approach to Minnesota Uni Issue - After MNU Public Appology attempt](https://youtu.be/3d3O95xt8BQ)
 - [ ] Add Image OpenSource Expectations vs Reality
 - [ ] Adobe Alternatives better GUI
