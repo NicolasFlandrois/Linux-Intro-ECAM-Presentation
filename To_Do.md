@@ -56,3 +56,10 @@
     + [x] Slide des Pinguins Distros - Recadrer/Resize Déborde trop de l'écran
     + [x] Centrer les items du slide GNU/Open Software
     + [x] Centrer les items du slide Open Software vs NSA
+
+---
+2021-2022
+
+- [ ] Add [Linux Bans University Of Minnesota](https://www.bleepingcomputer.com/news/security/linux-bans-university-of-minnesota-for-committing-malicious-code/)
+- [ ] Add Image OpenSource Expectations vs Reality
+- [ ] Adobe Alternatives better GUI
