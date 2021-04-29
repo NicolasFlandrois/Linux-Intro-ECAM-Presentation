@@ -65,4 +65,5 @@
     - [ ] Add [Youtube 'Mental Outlaw' 1st approach of Minnesota Uni Issue](https://youtu.be/JH_BGlS5LR4)
     - [ ] Add [Youtube 'Mental Outlaw' 2nd approach to Minnesota Uni Issue - After MNU Public Appology attempt](https://youtu.be/3d3O95xt8BQ)
 - [ ] Add Image OpenSource Expectations vs Reality
-- [ ] Adobe Alternatives better GUI
+- [ ] Adobe Alternatives better GUI (img)
+- [ ] Add or Not? At least Read [Interesting Interview of Linus Torvald](https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git)
